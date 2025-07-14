@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "Welcome to Dr. S Kiran's Clinic",
+    "subtitle": "Your health, our priority",
+    "cta": "Book Appointment"
+  },
+  "infoCards": [
+    {"title": "Quality Care", "text": "We provide top-notch healthcare services."},
+    {"title": "Experienced Staff", "text": "Our team has years of experience."},
+    {"title": "Modern Facilities", "text": "State-of-the-art equipment and environment."}
+  ],
+  "doctor": {
+    "name": "Dr. S Kiran",
+    "specialty": "Cardiologist",
+    "bio": "Dr. Kiran has over 20 years of experience in cardiology."
+  },
+  "services": [
+    "General Consultation",
+    "Cardiac Checkup",
+    "Emergency Care"
+  ]
+}
